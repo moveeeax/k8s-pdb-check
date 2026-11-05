@@ -30,3 +30,7 @@ k8s-pdb-check --node worker-03 --output table --fail-on blocking
 ## License
 
 MIT
+
+---
+
+Archived on 2026-11-05. The idea moved to [k8s-pdb-guard](https://github.com/moveeeax/k8s-pdb-guard/issues/2).
